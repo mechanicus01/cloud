@@ -40,7 +40,7 @@ Google Cloud Platform (GCP) is a suite of cloud computing services that runs on 
 - **Translation API** - Language translation
 
 ### Security
-- [**IAM** - Identity and access management](../IAM/README.md)
+- [**IAM** - Identity and access management](/IAM/README.md)
 - **Cloud KMS** - Key management
 - **Security Command Center** - Security management
 - **Cloud Audit Logs** - Audit logging
